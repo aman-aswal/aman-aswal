@@ -3,7 +3,7 @@ I'm Aman Aswal, a passionate Computer Science student with a keen interest in so
 
 About Me:
 
-💻 Coding Enthusiast: I enjoy coding in languages like Python, Java, and C++. I'm always eager to learn new technologies and improve my programming skills.
+💻 Coding Enthusiast: I enjoy coding in languages like Python, Java and C. I'm always eager to learn new technologies and improve my programming skills.
 
 📚 Lifelong Learner: Constantly exploring new topics in computer science, from machine learning and artificial intelligence to web development and cybersecurity.
 
